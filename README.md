@@ -1,2 +1,2 @@
 # robofriendsApp
-A simple robo-search app.
+A simple robo-search app. 🦾🦿
